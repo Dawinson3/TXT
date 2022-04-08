@@ -1,0 +1,12 @@
+﻿ID: 13246
+Summary: Нельзя оплатить товар в корзине, используя карту БПС банка.
+Severity: Critical
+Environment: Windows 10 x64, Browser Google Chrome version 98.0.4758.10
+Description: 
+        Steps to reproduce:
+        step 1: открыть,ссылка на наш интернет магазин.
+        step 2: добавить любой товар в корзину.
+        step 3: оплатить выбранный товар картой БПС.
+Result: Оплата товара не проходит.
+Expected result: Оплата товара проходит успешно.
+Attachment: скрины или видео результата.
