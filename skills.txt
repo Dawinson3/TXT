@@ -1,0 +1,4 @@
+
+В рамках курса Вадима Ксендзова, падаваны преобретут умение пользоваться различными инструментами и навыки:
+Testing API, Postman, Fiddler, log reading, Charles, Terminal Linux, Bash scripting, SQL, Git, Jmetr, Android Studio, Dev_Tools, Json, XML, Python.
+А так же прокачка Soft скилов на курсе обеспечена.
